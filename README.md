@@ -1,5 +1,7 @@
 # Мой первый проект
+
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
+
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://vengo72.github.io/web.github.io/)
+- [Публичная страница на GitHub Pages](https://vengo72.github.io/myproject/)
